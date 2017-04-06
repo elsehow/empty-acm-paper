@@ -6,13 +6,13 @@
 #+LATEX_HEADER: \setcopyright{rightsretained}
 #+LATEX_HEADER: \acmDOI{10.475/123_4}
 #+LATEX_HEADER: \acmISBN{123-4567-24-567/08/06}
-#+LATEX_HEADER: \acmConference[LIMITS '17]{ACM Limits Workshop}{June 2017}{Santa Barbara, California USA} 
-#+LATEX_HEADER: \acmYear{2017}
-#+LATEX_HEADER: \copyrightyear{2017}
+#+LATEX_HEADER: \acmConference[CHI '18]{CHI}{Month, Year}{Place, State, Country}
+#+LATEX_HEADER: \acmYear{2018}
+#+LATEX_HEADER: \copyrightyear{2018}
 #+LATEX_HEADER: \acmPrice{15.00}
-#+TITLE: Better Not to Know
+#+TITLE: Great Paper Title
 #+Author: 
-#+SUBTITLE: The SHA1 Collision & the Limits of Polemic Computation
+#+SUBTITLE: Cool Paper Subtitle
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style1.css" />
 :end:
 

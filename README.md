@@ -27,7 +27,9 @@ add this to your .spacemacs
 
 ## writing
 
-just edit the file paper.org, and export it as a PDF or HTML file (by default that's `, e l o` in spacemacs org layer).
+first, edit authors.tex to get everything set up the way you want it.
+
+next, just edit the file paper.org, and export it as a PDF or HTML file (by default that's `, e l o` in spacemacs org layer).
 
 export your bibliography to `refs.bib`.
 to insert a citation in `paper.org`, just do `, i c` in spacemacs to pull up org-ref.
